@@ -1,8 +1,8 @@
 # Content Performance Analysis
 A short-form video performance analysis project focused on identifying which **content themes, styles, hooks, and technical video characteristics** drive stronger reach, engagement, saves, shares, and rewatch behavior. 
 
-![Content Perfomance Overview](dashboard/content_performance_overview.png)
-![Video Performance Factors](dashboard/video_performance_factors.png)
+![Content Perfomance Overview](content-perfomance-analysis/dashboard/content_performance_overview.png)
+![Video Performance Factors](content-perfomance-analysis/dashboard/video_performance_factors.png)
 🔗 **[View Interactive Dashboard](https://lookerstudio.google.com/reporting/52354b00-89d7-4e6a-a215-06b607322324)**
 
 ## Project Goal
