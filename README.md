@@ -3,7 +3,7 @@ A short-form video performance analysis project focused on identifying which **c
 
 ![Content Perfomance Overview](content-perfomance-analysis/dashboard/content_performance_overview.png)
 ![Video Performance Factors](content-perfomance-analysis/dashboard/video_performance_factors.png)
-🔗 **[View Interactive Dashboard](https://lookerstudio.google.com/reporting/52354b00-89d7-4e6a-a215-06b607322324)**
+🔗 **[View Interactive Dashboard](https://datastudio.google.com/reporting/94a2cc3b-82e2-4f0d-9d7e-20ac0f103dbb)**
 
 ## Project Goal
 Understand what makes videos perform better and translate the findings into practical content recommendations.
