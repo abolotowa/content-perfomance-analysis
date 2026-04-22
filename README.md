@@ -1,8 +1,7 @@
 # Content Performance Analysis
 A short-form video performance analysis project focused on identifying which **content themes, styles, hooks, and technical video characteristics** drive stronger reach, engagement, saves, shares, and rewatch behavior. 
 
-![Content Perfomance Overview](content-perfomance-analysis/dashboard/content_performance_overview.png)
-![Video Performance Factors](content-perfomance-analysis/dashboard/video_performance_factors.png)
+![Content Perfomance Overview](content-perfomance-analysis/dashboard/content_insights.png)
 🔗 **[View Interactive Dashboard](https://datastudio.google.com/reporting/94a2cc3b-82e2-4f0d-9d7e-20ac0f103dbb)**
 
 ## Project Goal
